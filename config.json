@@ -8,8 +8,8 @@
     "text": "Andrew Weymouth"
   },
   "text": {
-    "more": "This visualization represents areas of the Richards collection not currently digitized by the Tacoma Public Library. The node size represents the gap (ranging from 100 to 2210 missing items), decades are represented by color and nodes are grouped by year in order to create research connections. While gaps may be used identify undocumented areas in the Northwest Room\u0027s collection, these prints may also be located in the offsite locations or simply clerical errors by the Richards studio. ",
-    "intro": "This visualization represents areas of the Richards collection not currently digitized by the Tacoma Public Library. The node size represents the gap (ranging from 100 to 2210 missing items), decades are represented by color and nodes are grouped by year in order to create research connections. ",
+    "more": "This visualization represents areas of the Richards collection not currently digitized by the Tacoma Public Library. The node size represents the gap (ranging from 100 to 2210 missing items), decades are represented by color and nodes are grouped by year in order to facilitate research connections. While gaps may be used identify undocumented areas in the Northwest Room\u0027s collection, these prints may also be located in the offsite locations or simply clerical errors by the Richards studio. ",
+    "intro": "This visualization represents areas of the Richards collection not currently digitized by the Tacoma Public Library. The node size represents the gap (ranging from 100 to 2210 missing items), decades are represented by color and nodes are grouped by year in order to facilitate research connections. ",
     "title": "Richards Collection Gap Visualization"
   },
   "legend": {
