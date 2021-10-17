@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Andrew Weymouth"
+  },
+  "text": {
+    "more": "This visualization represents areas of the Richards collection not currently digitized by the Tacoma Public Library. Numerical gaps were identified by stripping items of D or A characters and numbers following dashes (for example, A1544-5 becomes 1544). The node size represents the gap (ranging from 100 to 2210 missing items), decades are represented by color and nodes are grouped by year in order to create research connections. While gaps may be used identify undocumented areas in the Northwest Room\u0027s collection, these prints may also be located in the offsite locations or simply clerical errors by the Richards studio. ",
+    "intro": "This visualization represents areas of the Richards collection not currently digitized by the Tacoma Public Library. Numerical gaps were identified by stripping items of D or A characters and numbers following dashes (for example, A1544-5 becomes 1544). The node size represents the gap (ranging from 100 to 2210 missing items), decades are represented by color and nodes are grouped by year in order to create research connections. ",
+    "title": "Richards Gaps Visualization"
+  },
+  "legend": {
+    "edgeLabel": "Gap Size",
+    "colorLabel": "Fuchsia: 1900s, Yellow: 1930s, Blue: 1940s, Green: 1950s, Orange: 1960s, Light Green: 1970s",
+    "nodeLabel": "Decade"
+  },
+  "features": {
+    "search": false,
+    "groupSelectorAttribute": "year",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Id"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 1,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 6,
+      "maxNodeSize": 25
+    },
+    "mouseProperties": {
+      "maxRatio": 25,
+      "minRatio": 0.75
+    }
+  }
+}
